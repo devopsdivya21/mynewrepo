@@ -1,0 +1,9 @@
+A branch represents an independent line of development.
+The git branch command lets you create, list, rename, and delete branches.
+The default branch name in Git is master.
+allows you to work on different features or changes to your code independently, without
+affecting the main or other branches.
+It's a way to organise and manage your code changes, making it easier to collaborate and
+maintain your project.
+git branch used to see the list of branches
+git branch branch-name to create a banch
